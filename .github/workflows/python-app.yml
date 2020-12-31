@@ -6,8 +6,6 @@ name: Python application
 on:
   pull_request:
     branches: [ master ]
-    paths:
-    - '**.py'
 
 defaults:
   run:
