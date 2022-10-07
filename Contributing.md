@@ -15,9 +15,9 @@ Below you will find the process and workflow used to review and merge your chang
 ## Step 2 : Fork the Project
 - Fork this Repository. This will create a Local Copy of this Repository on your Github Profile. Keep a reference to the original project in `upstream` remote.
 ```
-$ git clone https://github.com/<your-username>/LearnCPP
+$ git clone https://github.com/<your-username>/CompetitiveProgramming
 $ cd LearnCPP
-$ git remote add upstream https://github.com/Lakhankumawat/LearnCPP
+$ git remote add upstream https://github.com/cp-geeks-adgitm/CompetitiveProgramming
 ```
 - If you have already forked the project, update your copy before working.
 ```
