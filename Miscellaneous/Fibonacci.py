@@ -7,7 +7,7 @@ if n <= 0:
    print("Please enter a positive and more than zero integer value.")
 
 elif n == 1:
-   print("Fibonacci sequence upto",n,":")
+   print("Fibonacci sequence:")
    print(n1)
 
 else:
